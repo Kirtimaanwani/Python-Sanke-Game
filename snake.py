@@ -78,3 +78,7 @@ class Snake:
             self.head.setheading(RIGHT)
 
 
+
+            
+            
+            
