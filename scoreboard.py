@@ -36,3 +36,6 @@ class ScoreBoard(Turtle):
 
     def increase_score(self):
         self.score += 1
+        
+        
+        
